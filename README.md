@@ -1,4 +1,4 @@
-# ML Web Application
+# Meachine Learning Prediction Website - Rent and Placement
 
 This is a machine learning web application that provides predictions for two datasets: housing rent prediction and campus placement prediction.
 
