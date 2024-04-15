@@ -28,7 +28,7 @@ The project consists of two main components:
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: git clone [https://github.com/your-username/ml-web-app.git](https://github.com/rahulnolee/Group-3.git)
 
 2. Navigate to the project directory: cd ml-web-app
 
