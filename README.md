@@ -1,4 +1,4 @@
-# ML Web Application
+# Meachine Learning Prediction Website - Rent and Placement
 
 This is a machine learning web application that provides predictions for two datasets: housing rent prediction and campus placement prediction.
 
@@ -28,7 +28,7 @@ The project consists of two main components:
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: git clone [https://github.com/your-username/ml-web-app.git](https://github.com/rahulnolee/Group-3.git)
 
 2. Navigate to the project directory: cd ml-web-app
 
@@ -48,37 +48,8 @@ The project consists of two main components:
 - Access the web application at `http://localhost:5003`.
 
 ## Directory Structure
+![image](https://github.com/rahulnolee/Group-3/assets/113876448/28d532c7-902a-463f-85c7-27885711e176)
 
-ml-web-app/
-│
-├── datacollection/
-│ ├── House_Rent_Dataset.csv
-│ └── Placement_Data_Full_Class.csv
-│
-├── dataprocessing/
-│ ├── housing.ipynb
-│ └── students.ipynb
-│
-├── models_pickle/
-│ ├── llr.pkl
-│ └── xgboost_model.pkl
-│
-├── templates/
-|  ├── house
-|        ├── after_h.html
-|        └── index_link_h.html
-|  ├── campus
-|          ├── after.html
-|         └── index_link.html
-|  ├── about.html
-|  └── welcome.html
-|
-│
-├── app.py
-├── campuss.db
-├── housing.db
-├── README.md
-└── requirements.txt
 
 ## Purpose of This Project
 
